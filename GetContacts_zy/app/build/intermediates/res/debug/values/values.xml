@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mac/AndroidStudioProjects/GetContacts_zy/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">GetContacts_zy</string>
+    <string name="hello">Hello World, MainActivity!</string>
+</resources>
